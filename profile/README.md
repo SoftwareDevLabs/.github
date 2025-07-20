@@ -2,11 +2,11 @@
 
 **Transforming Software Development with AI Technologies**
 
-We want help revolutionizing how software is designed, developed, and certified across different domains. 
+We’re on a mission to revolutionize how software is designed, developed, and certified across different domains. 
 
 ## What We Do
 
-**Software Dev Labs** helps with developing methods and tools that can used for software development by reducing development costs and by accelerating time-to-market while maintaining the highest safety and reliability standards.
+At **Software Dev Labs**, we’re all about making software development a breeze. We create methods and tools that make it faster and cheaper, without compromising on reliability, traceability, or adherence to standards.
 
 ### Core Technologies
 - **AI Agents & LLMs**: Custom-trained large language models and multi-agent systems that assist throughout the entire software development lifecycle
