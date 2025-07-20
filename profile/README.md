@@ -2,7 +2,7 @@
 
 **Transforming Software Development with AI Technologies**
 
-We're revolutionizing how mission-critical software is designed, developed, and certified across different domains. 
+We want help revolutionizing how software is designed, developed, and certified across different domains. 
 
 ## What We Do
 
