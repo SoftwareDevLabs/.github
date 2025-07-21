@@ -1,5 +1,26 @@
 # Contributor Covenant Code of Conduct
 
+**Table of Contents:**
+
+* [Summary](#summary)
+* [Our Pledge](#our-pledge)
+* [Our Standards](#our-standards)
+* [Enforcement Responsibilities](#enforcement-responsibilities)
+* [Scope](#scope)
+* [Enforcement](#enforcement)
+* [Attribution](#attribution)
+* [Adoption](#adoption)
+
+## Summary
+
+As contributors and maintainers of SoftwareDevLabs projects, we will respect everyone who contributes by posting issues, updating documentation, submitting pull requests, providing feedback in comments, and any other activities.
+
+Communication regarding SoftwareDevLabs projects through any channel must be constructive and never resort to personal attacks, trolling, public or private harassment, insults, or other unprofessional conduct. Courtesy and respect shall be extended to everyone involved in this project. Our experiences as individuals differs widely, and as such contributors are expected to be respectful of differing viewpoints and ideas.
+
+We expect all contributors to uphold our standards of conduct. If any member of the community violates this code of conduct, the SoftwareDevLabs team and project maintainers will take action. We reserve the right to remove issues, comments, and PRs that do not comply with our conduct standards. Repeated or significant offenses will result in blocked accounts and disassociation with our projects and the SoftwareDevLabs community.
+
+If you are subject to or witness unacceptable behavior, or have any other concerns, please email us at [info@softwaredevlabs.com][email].
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
